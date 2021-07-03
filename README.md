@@ -1,15 +1,15 @@
 # Advanced-CSS-Challenge-Professional-Portfolio
 
-#Descriptopn
+# Descriptopn
 
 Created a website that shows a portfolio to employers about a web developer and his/her projects.
 Gives links to the source code of all projects. Displays contac information.
 
-#Credits
+# Credits
 
 Olugbenga Ojo
 
-#License
+# License
 
 Boost Software License - Version 1.0 - August 17th, 2003
 
